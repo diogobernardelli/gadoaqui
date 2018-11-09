@@ -1,0 +1,37 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteBase /
+RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} !-f
+
+#RewriteRule "(^|/)\." - [F]
+
+#RewriteRule ^/?$ index.php
+
+## BUSCA ##
+RewriteRule ^busca?$ busca.php [L]
+RewriteRule ^busca/([^/\.]*)?$ busca.php?b=$1 [L]
+RewriteRule ^busca/([^/\.]*)/?$ busca.php?b=$1 [L]
+RewriteRule ^busca/([^/\.]*)/?([^/\.]*)/?$ busca.php?b=$1&p=$2 [L]
+
+## MUNICIPIOS ##
+RewriteRule ^municipio/([^/\.]*)/?$ cidade.php?m=$1 [L]
+
+## CONTATO ##
+RewriteRule ^contato?$ contato.php [L]
+RewriteRule ^contato/([^/\.]*)?$ contato.php [L]
+
+## O PORTAL ##
+RewriteRule ^oportal?$ oportal.php [L]
+RewriteRule ^oportal/([^/\.]*)?$ oportal.php [L]
+
+## SUA CIDADE ##
+RewriteRule ^suacidade?$ suacidade.php [L]
+RewriteRule ^suacidade/([^/\.]*)?$ suacidade.php [L]
+
+## NOTICIAS ##
+RewriteRule ^noticias?$ noticias.php
+RewriteRule ^noticias/([1-9]*)/?$ noticias.php?p=$1 [L]
+RewriteRule ^noticias/([^/\.]*)/?([^/\.]*)/?$ noticias.php?m=$1&p=$2 [L]
+RewriteRule ^noticia/([a-zA-Z0-9-\.\,_]+)/?$ noticia.php?url=$1
+
+</IfModule>

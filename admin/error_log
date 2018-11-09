@@ -1,0 +1,4 @@
+[07-Aug-2014 09:11:15 America/Recife] PHP Notice:  Undefined variable: RESUMO_DA_PAGINA in /home/gadoaqui/public_html/admin/cabecalho.php on line 14
+[07-Aug-2014 09:11:15 America/Recife] PHP Notice:  Undefined variable: PALAVRAS_CHAVES in /home/gadoaqui/public_html/admin/cabecalho.php on line 15
+[07-Aug-2014 09:11:29 America/Recife] PHP Notice:  Undefined variable: RESUMO_DA_PAGINA in /home/gadoaqui/public_html/admin/cabecalho.php on line 14
+[07-Aug-2014 09:11:29 America/Recife] PHP Notice:  Undefined variable: PALAVRAS_CHAVES in /home/gadoaqui/public_html/admin/cabecalho.php on line 15

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="back_disabled.png" server="85.25.118.79/mecanicheck/" local="130381851423183106" remote="130347908400000000" Dst="0" />
+<file name="back_enabled.png" server="85.25.118.79/mecanicheck/" local="130381851442345886" remote="130347908400000000" Dst="0" />
+<file name="back_line.png" server="85.25.118.79/mecanicheck/" local="130381851450391248" remote="130347908400000000" Dst="0" />
+<file name="forward_disabled.png" server="85.25.118.79/mecanicheck/" local="130381851453243161" remote="130347908400000000" Dst="0" />
+<file name="forward_enabled.png" server="85.25.118.79/mecanicheck/" local="130381851466655227" remote="130347908400000000" Dst="0" />
+<file name="sort_asc_disabled.png" server="85.25.118.79/mecanicheck/" local="130381851474849715" remote="130347908400000000" Dst="0" />
+<file name="sort_asc.png" server="85.25.118.79/mecanicheck/" local="130381851477481486" remote="130347908400000000" Dst="0" />
+<file name="sort_desc_disabled.png" server="85.25.118.79/mecanicheck/" local="130381851496388952" remote="130347908400000000" Dst="0" />
+<file name="sort_both.png" server="85.25.118.79/mecanicheck/" local="130381851501742560" remote="130347908400000000" Dst="0" />
+<file name="sort_desc.png" server="85.25.118.79/mecanicheck/" local="130381851501742560" remote="130347908400000000" Dst="0" />
+<file name="back_disabled.png" server="85.25.118.79/pontual/" local="130381851420000000" remote="130405321200000000" Dst="1" />
+<file name="forward_disabled.png" server="85.25.118.79/pontual/" local="130381851450000000" remote="130405321200000000" Dst="1" />
+<file name="forward_enabled.png" server="85.25.118.79/pontual/" local="130383019190000000" remote="130405321200000000" Dst="1" />
+<file name="back_enabled.png" server="85.25.118.79/pontual/" local="130383019290000000" remote="130405321200000000" Dst="1" />
+<file name="back_line.png" server="85.25.118.79/pontual/" local="130381851450000000" remote="130405321200000000" Dst="1" />
+<file name="sort_asc.png" server="85.25.118.79/pontual/" local="130381851480000000" remote="130405321200000000" Dst="1" />
+<file name="sort_asc_disabled.png" server="85.25.118.79/pontual/" local="130381851470000000" remote="130405321200000000" Dst="1" />
+<file name="sort_both.png" server="85.25.118.79/pontual/" local="130381851500000000" remote="130405321200000000" Dst="1" />
+<file name="sort_desc.png" server="85.25.118.79/pontual/" local="130381851500000000" remote="130405321200000000" Dst="1" />
+<file name="sort_desc_disabled.png" server="85.25.118.79/pontual/" local="130381851500000000" remote="130405321200000000" Dst="1" />
+</dwsync>
