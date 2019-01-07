@@ -23,9 +23,9 @@ abstract class PDOConnectionFactory {
 		$this->con = null;
 		$this->dbType = "pgsql";
 		$this->host = "localhost";
-		$this->user = "postgres";
-		$this->senha = "masterssi";
-		$this->db = "gadoaqui";
+		$this->user = "gadoaqui_postgres";
+		$this->senha = "masterssi1@";
+		$this->db = "gadoaqui_gadoaqui";
 	}
       
 
